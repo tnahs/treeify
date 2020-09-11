@@ -1,0 +1,22 @@
+root
+├── parent
+│   ├── child
+│   ├── child
+│   │   ├── grandchild
+│   │   │   ├── great-grandchild
+│   │   │   ├── great-grandchild
+│   │   │   └── great-grandchild
+│   │   └── grandchild
+│   ├── child
+│   │   └── grandchild
+│   │       └── great-grandchild
+│   │           ├── great-great-grandchild
+│   │           ├── great-great-grandchild
+│   │           ├── great-great-grandchild
+│   │           └── great-great-grandchild
+│   └── child
+│       └── grandchild
+│           └── great-grandchild
+├── parent
+│   └── child
+└── parent
